@@ -1,0 +1,10 @@
+{
+  "MyApp": {
+    "title": "Flutter Demo"
+  },
+  "MyHomePage": {
+    "title": "Flutter Demo Home Page",
+    "message": "You have pushed the button this many times: ${counts}",
+    "tooltip": "Increment"
+  }
+}

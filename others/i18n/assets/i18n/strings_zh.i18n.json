@@ -1,0 +1,10 @@
+{
+  "MyApp": {
+    "title": "Flutter 示例"
+  },
+  "MyHomePage": {
+    "title": "Flutter 示例 主页",
+    "message": "你已点击的次数:${counts}",
+    "tooltip": "增加"
+  }
+}
