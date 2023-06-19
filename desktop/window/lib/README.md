@@ -28,7 +28,7 @@
       ```cc
       # 最上面添加下面一行
       #include <bitsdojo_window_linux/bitsdojo_window_plugin.h>
-      igtk_window_set_default_size(window, 1280, 720);
+      gtk_window_set_default_size(window, 1280, 720);
       gtk_widget_show(GTK_WIDGET(window));
       # 以上两行修改成如下
       auto bdw = bitsdojo_window_from(window);            // <--- add this line
